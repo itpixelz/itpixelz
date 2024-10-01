@@ -21,7 +21,7 @@ With over 14 years of experience, I specialize in delivering high-quality softwa
   
 - 🔹 **Code Quality & Efficiency**: Emphasis on delivering exceptional value through optimized processes, cutting-edge tech, and a problem-solving mindset.
 
-- 🔹 **Community Contribution**: Former WordPress.tv community member and contributor.
+- 🔹 **Community Contribution**: Former WordCamp Organizer, WordPress.tv community member and contributor.
 
 ## Contact Me
 
